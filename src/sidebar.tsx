@@ -8,9 +8,9 @@ function Root() {
 
   return (
     <div className="container">
-      <h1>NetSys SAFe Assistant</h1>
+      <h1>SAFe Assistant</h1>
     </div>
   );
 }
 
-ReactDOM.render(<Root />, document.getElementById('netsys-safe-assistant'))
+ReactDOM.render(<Root />, document.getElementById('safe-assistant'))
